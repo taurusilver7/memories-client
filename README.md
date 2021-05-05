@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Memories
+
+> A MERN CRUD client-side operation of the application.
+
+- material-ui is used for component styling, redux for globalstate management.
+- the client-side application is hosted on heroku.
+
+## Stock
+
+- [background-svg](https://www.svgbackgrounds.com/#wavey-fingerprint)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
