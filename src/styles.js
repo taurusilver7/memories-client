@@ -17,4 +17,7 @@ export default makeStyles((theme) => ({
       flexDirection: "column-reverse",
     },
   },
+  image: {
+    marginLeft: "10px",
+  },
 }));
