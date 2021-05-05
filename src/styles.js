@@ -12,4 +12,9 @@ export default makeStyles((theme) => ({
   heading: {
     color: "#1993B8",
   },
+  [theme.breakpoints.down("sm")]: {
+    mainContainer: {
+      flexDirection: "column-reverse",
+    },
+  },
 }));
