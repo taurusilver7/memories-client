@@ -9,4 +9,7 @@ export default makeStyles((theme) => ({
     justifyContent: "center",
     alignItems: "center",
   },
+  heading: {
+    color: "#1993B8",
+  },
 }));
