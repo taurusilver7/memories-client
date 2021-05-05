@@ -7,6 +7,11 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
+  background-color: #000000;
+
+  /* background-image: url("https://i.stack.imgur.com/90nGa.jpg"); */
+  /* background-image: url("https://image.freepik.com/free-vector/stars-gradient-sky-background_23-2148280149.jpg"); */
+  /* object-fit: cover; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
