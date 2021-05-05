@@ -10,3 +10,6 @@ export const createPost = (newPost) => axios.post(url, newPost);
 // APi call for update the post route
 export const updatePost = (id, updatedPost) =>
   axios.patch(`${url}/${id}`, updatedPost);
+
+// API call for like post
+export const likePost = (id) => axios.patch(`${url}/${id}/likePost`);
